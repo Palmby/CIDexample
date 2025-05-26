@@ -2,4 +2,5 @@ def add_values(x, y):
     z = y + x
     return z 
 
-add_values(5,10)
+result = add_values(5,10)
+print(result)
